@@ -1,7 +1,4 @@
 # N-Queen problem using genetic algorithm
- 
-# N-Queens Genetic Algorithm Solver
-
 This project implements a genetic algorithm to solve the N-Queens problem using Tkinter for visualization. The genetic algorithm continuously evolves a population of candidate solutions until an optimal arrangement of queens is found, where no two queens threaten each other.
 
 ## N-Queens Problem
